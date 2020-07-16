@@ -22,6 +22,7 @@ Ludis is a flutter IOS / Andorid /Web application which demonstrates the use of 
 - [ ] Adding UI properties to the balls.
 - [ ] Adding the ability to change color & mass of the balls.
 - [ ] Adding timer for each cradle trial.
+- [ ] Adding sound collisions between balls.
 
 
 ## What is Newton's cradle ? 
