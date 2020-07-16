@@ -16,7 +16,7 @@ Ludis is a flutter IOS / Andorid /Web application which demonstrates the use of 
 - [ ] Collision between first ball and the other balls.
 - [ ] Collision between last ball and the other balls. 
 - [ ] Achieving the conservation of Kineteic energy. **K.E = 1/2 * mass * velocity** .
-- [ ] Acheiving the conservation of momentum. **Momentum = Velocity * mass **.
+- [ ] Acheiving the conservation of momentum. **Momentum = Velocity * mass**.
 - [ ] Figuring out calculations of velocity of the ball.
 - [ ] Adding animations to collision of balls. 
 - [ ] Adding UI properties to the balls.
